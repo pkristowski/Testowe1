@@ -5,6 +5,8 @@ main(){
   printf("Podaj cztery liczby\n");
   scanf("%d %d %d %d",&a,&b,&c,&d);
   while(a<b){
+adfawdaw
+awdawdawd
     a++;
   }
   while(a<c){
