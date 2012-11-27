@@ -13,5 +13,5 @@ main(){
   while(a<d){
     a++;
   }
-  printf("Liczba %d jest największa\n",a);
+  printf("Liczba %d jest największa, w mordę jeża!\n",a);
 }
