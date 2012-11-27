@@ -3,7 +3,7 @@
 main(){
   int a,b,c,d;
   printf("!!Podaj hasło!!\n");
-  scanf("%d %d %d %d",&a,&b,&c,&d);
+   scanf("%d %d %d %d",&a,&b,&c,&d);
   while(a<b){
 adfawdaw
 awdawdawd
