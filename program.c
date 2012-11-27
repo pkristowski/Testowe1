@@ -2,7 +2,7 @@
 #include<stdio.h>
 main(){
   int a,b,c,d;
-  printf("Podaj cztery liczby\n");
+  printf("!!Podaj hasło!!\n");
   scanf("%d %d %d %d",&a,&b,&c,&d);
   while(a<b){
 adfawdaw
